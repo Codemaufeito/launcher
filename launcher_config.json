@@ -9,8 +9,8 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "15.00.02",
-	"launcherVersion": "1.1",
+	"clientVersion": "15.00.03",
+	"launcherVersion": "1.2",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Codemaufeito/launcher/releases/download/v1.0.1-easy/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Codemaufeito/launcher/releases/download/v1.0.2-easy/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
