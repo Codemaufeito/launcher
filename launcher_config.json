@@ -1,6 +1,6 @@
 {
-	"clientVersion": "15.11.02",
-	"launcherVersion": "1.12",
+	"clientVersion": "15.11.00",
+	"launcherVersion": "1.10",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -33,4 +33,3 @@
 		"launcherIco": "launcher_ico.png"
 	}
 }
-
