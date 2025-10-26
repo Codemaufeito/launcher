@@ -25,5 +25,26 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/Codemaufeito/launcher/releases/download/v1.0.8-easy/client-to-update.zip",
-	"clientExecutable": "client.exe"
-} 
+	"clientExecutable": "client.exe",
+	"discordUrl": "https://discord.gg/SEU_SERVIDOR_DISCORD",
+	"whatsappNumber": "5511999999999",
+	"assetsUrl": "https://raw.githubusercontent.com/Codemaufeito/launcher/main/Assets/",
+	"imageNames": {
+		"logo": "logo.png",
+		"logoCompany": "logo_company.png",
+		"background": "background.jpg",
+		"buttonPlay": "button_play.png",
+		"buttonUpdate": "button_update.png",
+		"buttonHoverPlay": "button_hover_play.png",
+		"buttonHoverUpdate": "button_hover_update.png",
+		"iconPlay": "icon_play.png",
+		"iconUpdate": "icon_update.png",
+		"bgButtonUpdate": "bg_button_update.png",
+		"bgHints": "bg_hints.png",
+		"rhLore": "rh_lore.png",
+		"launcherIco": "launcher_ico.png",
+		"discordIcon": "discord_icon.png",
+		"whatsappIcon": "whatsapp_icon.png"
+	}
+}
+
